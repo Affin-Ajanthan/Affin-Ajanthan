@@ -15,10 +15,10 @@ Enthusiast in **Data Science** & **Artificial Intelligence**, continuously explo
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK_HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_LINK_HERE)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@YOUR_LINK_HERE)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@YOUR_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/affin-ajanthan-17449219b)
+[![FaceBook](https://img.shields.io/badge/FaceBook-0000FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/affin.ajanthan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/afajanthan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/Affin-Ajanthan)
 
 ---
 
